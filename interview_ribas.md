@@ -3,17 +3,17 @@
 
 — **Peux-tu te présenter ? Quels sont ta formation et ton parcours ?**
 
-Je m'appelle Pascal Chevrel, j'ai quarante-quatre ans, je n'ai pas une formation d'informaticien au départ. J'ai une formation en langue appliquée, puis en commerce international.
+Je m'appelle Pascal Chevrel, j'ai quarante-quatre ans, je n'ai pas une formation d'informaticien au départ. J'ai une formation en langues étrangères  appliquées au droit et à l'économie puis en Négociation Commerciale Internationale.
 
 — **Comment es-tu arrivé à rejoindre le projet Mozilla ?**
 
-J'ai rejoint le projet Mozilla en 2000, j'ai toujours été passionné par l'informatique. J'ai découvert le logiciel libre essentiellement à travers le projet Mozilla même si je connaissais Linux. Je ne contribuais pas à d'autres projets libres. J'étais surtout passionné par le Web. J'ai découvert le navigateur Firefox lors d'un séjour Erasmus, j'ai très vite compris que ce projet pouvait devenir une alternative au navigateur Internet Explorer. L'offre Microsoft ne me convenait pas. L'évolution que prenait alors le Web me paraissait importante et j'avais très envie de participer à l'aventure. C'est pour ces différentes raisons que j'ai aidé Mozilla en tant que bénévole pendant environ six années. Il n'y avait pas de structure, pas de revenu, pas d'employés à l'époque. Il n'y avait pas non plus de possibilité d'embauche (je ne cherchais pas non plus à me faire employer par le projet).
+J'ai rejoint le projet Mozilla en 2000, j'ai toujours été passionné par l'informatique. J'ai découvert le logiciel libre essentiellement à travers le projet Mozilla même si je connaissais Linux. Je ne contribuais pas à d'autres projets libres. J'étais surtout passionné par le Web. J'avais découvert le Web et le navigateur Netscape en 1995 lors d'un séjour Erasmus. À la disparition de Netscape, j'ai très vite compris que Mozilla pouvait devenir une alternative au navigateur Internet Explorer. L'offre Microsoft ne me convenait pas. L'évolution que prenait alors le Web me paraissait importante et j'avais très envie de participer à l'aventure. C'est pour ces différentes raisons que j'ai aidé Mozilla en tant que bénévole pendant environ six années. Il n'y avait pas de structure, pas de revenus, pas d'employés à l'époque. Il n'y avait pas non plus de possibilité d'embauche à l'époque (je ne cherchais pas non plus à me faire employer par le projet).
 
 J'ai commencé à travailler avec Tristan Nitot au début des années 2000 et nous avons créé des communautés à grande échelle. Pour exemple, en 2003 nous avons créé Mozilla Europe. J'ai amené mes compétences en langues et mon côté un peu plus social que la majorité des informaticiens de l'époque.
 
-En 2003 j'ai créé le site Mozilla Europe en 27 langues. Ce projet d'internationalisation, Mozilla n'arrivait pas à le faire, ils ne trouvaient pas les compétences nécessaires. Quand Mozilla Firefox est sorti en 2004, il a eu un succès retentissant ! L'équipe de développement de Mozilla a très vite eu besoin d'un site web traduit en plusieurs langues, c'était vital pour le passage à l'échelle et la pérennisation du projet. Le hic était que Mozilla « Monde » n'avait pas de sites multi-langues (rappelez-vous que Mozilla n'était pas à l'époque aussi bien structuré qu'aujourd'hui). Lorsqu'ils ont découvert que Tristan et moi-même avions créé une association en Europe et créé un site web correspondant à leurs attentes, ils m'ont contacté pour que je travaille avec eux. Mozilla ne savait pas comment parler à un traducteur :-) je connais à la fois la culture informatique et la culture des langues. Mon rôle était de créer et animer des communautés de traducteurs (mais pas que, hein ! un peu de code aussi !).
+En 2003 j'ai créé le site Mozilla Europe en 27 langues. Ce projet d'internationalisation, Mozilla n'arrivait pas à le faire, ils ne trouvaient pas les compétences nécessaires. Quand Mozilla Firefox est sorti en 2004, il a eu un succès retentissant ! L'équipe de développement de Mozilla a très vite eu besoin d'un site web traduit en plusieurs langues, c'était vital pour le passage à l'échelle et la pérennisation du projet. Le hic était que Mozilla « Monde » n'avait pas de sites multilingue (rappelez-vous que Mozilla n'était pas à l'époque aussi bien structuré qu'aujourd'hui). Lorsqu'ils ont découvert que Tristan et moi-même avions créé une association en Europe et créé un site web correspondant à leurs attentes, ils m'ont contacté pour que je travaille avec eux. Mozilla ne savait pas comment parler à un traducteur :-) je connais à la fois la culture informatique et la culture des langues. Mon rôle était de créer et animer des communautés de traducteurs (mais pas que, hein ! un peu de code aussi !).
 
-J'ai commencé comme prestataire en 2006 pour Mozilla, car il n'y avait pas de structure pour m'embaucher en Europe. Deux années plus tard, Mozilla France est créé et je deviens alors le premier employé en Europe. Tristan quant à lui était le président de l'association Mozilla Europe. Il tenait le rôle du personnage public, la voix de Mozilla, la personne qui parle à la presse, l'étendard, il est très charismatique.
+J'ai commencé comme prestataire en 2006 pour Mozilla, car il n'y avait pas de structure pour m'embaucher en Europe. Deux années plus tard, Mozilla France est créé et je deviens alors l'un des premiers employés en Europe. Tristan quant à lui était le président de l'association Mozilla Europe. Il tenait le rôle du personnage public, la voix de Mozilla, la personne qui parle à la presse, l'étendard, il est très charismatique.
 
 — **Quelles sont les raisons qui t'ont poussé à contribuer activement sur le projet ?**
 
@@ -23,7 +23,7 @@ Je croyais aux valeurs du projet (rendre meilleur le Web) et c'était pour moi u
 
 — **Quel est ton rôle en ce moment au sein de l'organisation Mozilla ?**
 
-Je fais beaucoup de développement en ce moment, PHP, Python, du BASH. Je maintiens plusieurs outils utilisés par les traducteurs. Je maintiens pour exemple un outil de contrôle qualité des traductions multi-langues. Cet outil était maintenu par une personne qui est partie il y a quelques années et il m'a donné les clefs du projet. Je construis aussi pas mal de tableaux de bord afin de suivre les avancées des différents projets à travers le monde. Je suis aussi très content car Mozilla m'emploie en tant qu'ingénieur alors que mes études sont loin de ce métier. Je fais aujourd'hui moins d'animation et conséquemment moins de recrutements. J'ai dû amener environ une centaine de traducteurs au total. On compte aujourd'hui environ 150 traducteurs (stables) dans la communauté Mozilla.
+Je fais beaucoup de développement en ce moment, PHP, Python, du BASH. Je maintiens plusieurs outils utilisés par les traducteurs. Je maintiens pour exemple un outil de contrôle qualité des traductions multilingues. Cet outil était maintenu par un bénévole qui est parti il y a quelques années et il m'a donné les clefs du projet. Je construis aussi pas mal de tableaux de bord afin de suivre les avancées des différents projets à travers le monde. Je suis aussi très content car Mozilla m'emploie en tant qu'ingénieur alors que mes études sont loin de ce métier. Je fais aujourd'hui moins d'animation et conséquemment moins de recrutements. J'ai dû amener environ une centaine de traducteurs au total. On compte aujourd'hui environ 150 traducteurs (stables) dans la communauté Mozilla.
 
 — **Qu'apprécies-tu le plus dans ce travail ?**
 
@@ -43,7 +43,7 @@ Les communautés diffèrent aussi selon le lieu géographique et leur âge. En F
 
 Je passais 80% de mon temps à animer les communautés, 20% sur du code. J'ai inversé la tendance depuis quelques mois…
 
-Les contributeurs Mozilla peuvent aussi changer de « travail » au sein du projet assez facilement, ils évoluent en fonction des avancées technologiques du projet.
+Les contributeurs Mozilla peuvent aussi changer de « travail » au sein du projet assez facilement, ils évoluent en fonction des avancées technologiques du projet et de leurs propres désirs.
 
 — **Comment sont prises les décisions au sein de ces communautés ?**
 
@@ -87,7 +87,7 @@ Nous avons plusieurs outils et plusieurs lieux (je parle des communautés de tra
 
 *Pour le code* : « *The repository is king* ». Le dépôt des traductions (Mercurial) est la référence. Nous avons des personnes qui vont aider les traducteurs à intégrer leur travail sur le dépôt de référence, les aider à utiliser les outils de traduction, etc.
 
-*Communication* : pour la communication, nous utilisons notre propre moyen IRC (1 400 salons). C'est le lieu principal de discussion. Nous utilisons aussi beaucoup les listes de diffusions.
+*Communication* : pour la communication, nous utilisons notre propre serveur IRC (irc.mozilla.org avec environ 1 400 salons différents). C'est le lieu principal de discussion. Nous utilisons aussi beaucoup les listes de diffusions.
 
 On met à disposition des wikis où les contributeurs déposent des informations sur leurs projets de traductions, leurs contacts, leurs avancements, leurs règles de fonctionnement, etc.
 
